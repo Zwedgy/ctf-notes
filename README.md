@@ -17,6 +17,9 @@ Run [LinEmum.sh](https://github.com/rebootuser/LinEnum) and [PsPy](https://githu
 
 <h1> Stego </h1>
 Run strings on it. The -n is for length:
+
 <code>strings -n 7</code>
+
 Extract files with Binwalk:
+
 <code>binwalk -Me image.jpg</code>
