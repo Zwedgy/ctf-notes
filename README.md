@@ -24,5 +24,10 @@ Extract files with Binwalk:
 
 <code>binwalk -Me image.jpg</code>
 
-Extract files with Steghide (if you have a password try it, if not try no password):
+Extract files with Steghide (if you have a password try it, if not try without password):
+
 <code>steghide extract -sf image.jpg<\code>
+
+Crack Steghide with Stegcracker:
+
+<code>stegcracker image.jpg rockyou.txt<\code>
