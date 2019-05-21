@@ -1,6 +1,6 @@
 # ctf-notes
-Notes of CTF challenges
-A lot of them are random
+Notes of CTF challenge
+
 <h1>Linux and privesc</h1>
 
 When having a limited shell you can try these following methods:
